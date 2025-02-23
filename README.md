@@ -28,7 +28,7 @@ This is a simple yet stylish landing page that showcases smooth CSS animations. 
 ## 🛠 Tech Stack
 - HTML5 🏗️
 - CSS3 🎨
-- 
+  
 
 ## 💡 Future Improvements
 - More interactive elements 🔄
