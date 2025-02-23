@@ -16,12 +16,12 @@ This is a simple yet stylish landing page that showcases smooth CSS animations. 
 ├── 📄 index.html  
 ├── 🎨 styles.css  
 
-
+  ```
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/dj-ayush/CSS.git
-   ```
+ 
 2. Open `index.html` in your browser.
 3. Enjoy the animations! 🎉
 
